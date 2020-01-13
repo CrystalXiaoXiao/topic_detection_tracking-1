@@ -1,0 +1,956 @@
+Wed Jan  8 15:17:06 2020
+[CURREN WORK PATH] /Users/herrshi/Downloads/8-News Set(SogouCS)/news_sohusite_xml.full/utils
+[CLASSIFY] gongyi.sohu.com                                   :        152 L
+[CLASSIFY] 2008.sohu.com                                     :         34 L
+[CLASSIFY] club.baobao.sohu.com                              :        118 L
+[CLASSIFY] try.women.sohu.com                                :         62 L
+[CLASSIFY] s.sohu.com                                        :       8042 L
+[CLASSIFY] roll.sohu.com                                     :     670985 L
+[CLASSIFY] infinitiex.i.auto.sohu.com                        :          7 L
+[CLASSIFY] helper.i.auto.sohu.com                            :          5 L
+[CLASSIFY] zhuanti.club.learning.sohu.com                    :         13 L
+[CLASSIFY] vip.book.sohu.com                                 :       3400 L
+[CLASSIFY] club.women.sohu.com                               :        261 L
+[CLASSIFY] club.travel.sohu.com                              :         17 L
+[CLASSIFY] club.yule.sohu.com                                :        268 L
+[CLASSIFY] weiqi.sports.sohu.com                             :          1 L
+[CLASSIFY] women.sohu.com                                    :       1658 L
+[CLASSIFY] club.sports.sohu.com                              :       1013 L
+[CLASSIFY] babyclub.women.sohu.com                           :        155 L
+[CLASSIFY] chihe.sohu.com                                    :        237 L
+[CLASSIFY] c5.i.auto.sohu.com                                :        420 L
+[CLASSIFY] club.gd.sohu.com                                  :         63 L
+[CLASSIFY] stock.business.sohu.com                           :        147 L
+[CLASSIFY] db.money.sohu.com                                 :       2700 L
+[CLASSIFY] shxicyh.i.auto.sohu.com                           :          7 L
+[CLASSIFY] jingqu.travel.sohu.com                            :       1519 L
+[CLASSIFY] riichg5.i.auto.sohu.com                           :          5 L
+[CLASSIFY] club.city.travel.sohu.com                         :        227 L
+[CLASSIFY] bora.i.auto.sohu.com                              :          4 L
+[CLASSIFY] jaguar-xj.i.auto.sohu.com                         :          1 L
+[CLASSIFY] csl.sports.sohu.com                               :         10 L
+[CLASSIFY] gd.sohu.com                                       :       1263 L
+[CLASSIFY] news.sohu.com                                     :      63836 L
+[CLASSIFY] stock.sohu.com                                    :      32178 L
+[CLASSIFY] ad2.sh.sohu.com                                   :          9 L
+[CLASSIFY] cbachina.sports.sohu.com                          :        800 L
+[CLASSIFY] club.it.sohu.com                                  :         25 L
+[CLASSIFY] club.learning.sohu.com                            :         70 L
+[CLASSIFY] lancerex.i.auto.sohu.com                          :          8 L
+[CLASSIFY] hebcyh.i.auto.sohu.com                            :         11 L
+[CLASSIFY] zhuanti.club.chihe.sohu.com                       :          6 L
+[CLASSIFY] lupo.i.auto.sohu.com                              :          1 L
+[CLASSIFY] sports.sohu.com                                   :      37211 L
+[CLASSIFY] acyz.i.auto.sohu.com                              :          4 L
+[CLASSIFY] club.book.sohu.com                                :        289 L
+[CLASSIFY] campus.learning.sohu.com                          :         12 L
+[CLASSIFY] beta.club.sohu.com                                :        124 L
+[CLASSIFY] media.news.sohu.com                               :         19 L
+[CLASSIFY] m.tv.sohu.com                                     :         14 L
+[CLASSIFY] ford.i.auto.sohu.com                              :          4 L
+[CLASSIFY] fenghua.i.auto.sohu.com                           :          3 L
+[CLASSIFY] sip1288.i.auto.sohu.com                           :          1 L
+[CLASSIFY] spyker.i.auto.sohu.com                            :          1 L
+[CLASSIFY] huodong.i.auto.sohu.com                           :          1 L
+[CLASSIFY] srx.i.auto.sohu.com                               :          7 L
+[CLASSIFY] saa.auto.sohu.com                                 :      19245 L
+[CLASSIFY] business.sohu.com                                 :      20096 L
+[CLASSIFY] music.yule.sohu.com                               :       1545 L
+[CLASSIFY] lifan.i.auto.sohu.com                             :          9 L
+[CLASSIFY] city.i.auto.sohu.com                              :          6 L
+[CLASSIFY] saddle.i.auto.sohu.com                            :          4 L
+[CLASSIFY] baby.women.sohu.com                               :         35 L
+[CLASSIFY] apple1218.i.auto.sohu.com                         :          8 L
+[CLASSIFY] benteng.i.auto.sohu.com                           :          5 L
+[CLASSIFY] sdsail.i.auto.sohu.com                            :         14 L
+[CLASSIFY] 300c.i.auto.sohu.com                              :          3 L
+[CLASSIFY] hldcyh.i.auto.sohu.com                            :          1 L
+[CLASSIFY] club.sh.sohu.com                                  :        207 L
+[CLASSIFY] zunchi.i.auto.sohu.com                            :          7 L
+[CLASSIFY] lz.club.gd.sohu.com                               :         27 L
+[CLASSIFY] cdcyh.i.auto.sohu.com                             :         16 L
+[CLASSIFY] vision.i.auto.sohu.com                            :          3 L
+[CLASSIFY] xialin3.i.auto.sohu.com                           :          4 L
+[CLASSIFY] changsha.auto.sohu.com                            :        357 L
+[CLASSIFY] foshan.auto.sohu.com                              :        359 L
+[CLASSIFY] games.sohu.com                                    :         42 L
+[CLASSIFY] navigator.i.auto.sohu.com                         :          1 L
+[CLASSIFY] pajero.i.auto.sohu.com                            :          5 L
+[CLASSIFY] nr.book.sohu.com                                  :          2 L
+[CLASSIFY] sccyh.i.auto.sohu.com                             :          9 L
+[CLASSIFY] volkswagen.i.auto.sohu.com                        :          5 L
+[CLASSIFY] wuxi.auto.sohu.com                                :        297 L
+[CLASSIFY] goche.auto.sohu.com                               :       3469 L
+[CLASSIFY] hbcyh.i.auto.sohu.com                             :          5 L
+[CLASSIFY] perla.i.auto.sohu.com                             :          4 L
+[CLASSIFY] haoqing.i.auto.sohu.com                           :          5 L
+[CLASSIFY] pic.cul.sohu.com                                  :        479 L
+[CLASSIFY] xn.xy.learning.club.sohu.com                      :          2 L
+[CLASSIFY] handan.i.auto.sohu.com                            :          8 L
+[CLASSIFY] ceshi1.i.auto.sohu.com                            :          5 L
+[CLASSIFY] wlmqcyh.i.auto.sohu.com                           :          6 L
+[CLASSIFY] xbxfz.i.auto.sohu.com                             :          1 L
+[CLASSIFY] cd.club.sohu.com                                  :         11 L
+[CLASSIFY] mgmg6.i.auto.sohu.com                             :          6 L
+[CLASSIFY] club.news.sohu.com                                :        107 L
+[CLASSIFY] caddy.i.auto.sohu.com                             :          7 L
+[CLASSIFY] zhongyi.i.auto.sohu.com                           :          1 L
+[CLASSIFY] jsp.auto.sohu.com                                 :         46 L
+[CLASSIFY] zhuanbo.2008.sohu.com                             :         22 L
+[CLASSIFY] epica2.i.auto.sohu.com                            :          7 L
+[CLASSIFY] auto.sohu.com                                     :       5716 L
+[CLASSIFY] anhuifuwu.i.auto.sohu.com                         :          1 L
+[CLASSIFY] huamulan.i.auto.sohu.com                          :          3 L
+[CLASSIFY] mycarclub.i.auto.sohu.com                         :          5 L
+[CLASSIFY] panda.i.auto.sohu.com                             :          3 L
+[CLASSIFY] card.money.sohu.com                               :        539 L
+[CLASSIFY] fukang.i.auto.sohu.com                            :          3 L
+[CLASSIFY] shijixing.i.auto.sohu.com                         :          2 L
+[CLASSIFY] jingang.i.auto.sohu.com                           :          5 L
+[CLASSIFY] pic.yule.sohu.com                                 :      27350 L
+[CLASSIFY] info.2008.sohu.com                                :        753 L
+[CLASSIFY] box.baobao.sohu.com                               :         13 L
+[CLASSIFY] weather.news.sohu.com                             :          2 L
+[CLASSIFY] huapu.i.auto.sohu.com                             :          5 L
+[CLASSIFY] hangzhou.auto.sohu.com                            :        670 L
+[CLASSIFY] c30.i.auto.sohu.com                               :          7 L
+[CLASSIFY] csldata.sports.sohu.com                           :        120 L
+[CLASSIFY] tuan.sohu.com                                     :          1 L
+[CLASSIFY] autofans.i.auto.sohu.com                          :          1 L
+[CLASSIFY] fulaier.i.auto.sohu.com                           :          4 L
+[CLASSIFY] suzhou.auto.sohu.com                              :        437 L
+[CLASSIFY] alto.i.auto.sohu.com                              :          5 L
+[CLASSIFY] 206.i.auto.sohu.com                               :          5 L
+[CLASSIFY] corolla.i.auto.sohu.com                           :          2 L
+[CLASSIFY] sdtiida.i.auto.sohu.com                           :          1 L
+[CLASSIFY] pic.tv.sohu.com                                   :          9 L
+[CLASSIFY] jingcai.club.sohu.com                             :          6 L
+[CLASSIFY] app.auto.sohu.com                                 :          6 L
+[CLASSIFY] qhdcy.i.auto.sohu.com                             :          7 L
+[CLASSIFY] p.club.business.sohu.com                          :         13 L
+[CLASSIFY] huncyh.i.auto.sohu.com                            :          4 L
+[CLASSIFY] club.comment2.news.sohu.com                       :          9 L
+[CLASSIFY] jetta.i.auto.sohu.com                             :          4 L
+[CLASSIFY] info.2012.sohu.com                                :         28 L
+[CLASSIFY] myway.astro.women.sohu.com                        :        123 L
+[CLASSIFY] escalade.i.auto.sohu.com                          :          5 L
+[CLASSIFY] pic.chihe.sohu.com                                :        191 L
+[CLASSIFY] touran.i.auto.sohu.com                            :         10 L
+[CLASSIFY] index.business.sohu.com                           :         43 L
+[CLASSIFY] zhuanti.club.health.sohu.com                      :         11 L
+[CLASSIFY] sx4.i.auto.sohu.com                               :          4 L
+[CLASSIFY] drug.health.sohu.com                              :      11366 L
+[CLASSIFY] grandis.i.auto.sohu.com                           :          2 L
+[CLASSIFY] golf.i.auto.sohu.com                              :          2 L
+[CLASSIFY] liberty.i.auto.sohu.com                           :          2 L
+[CLASSIFY] club.astro.sohu.com                               :        189 L
+[CLASSIFY] regal.i.auto.sohu.com                             :          2 L
+[CLASSIFY] lz.club.sh.sohu.com                               :          8 L
+[CLASSIFY] haodf.health.sohu.com                             :      10885 L
+[CLASSIFY] sportage.i.auto.sohu.com                          :         12 L
+[CLASSIFY] sdsx4.i.auto.sohu.com                             :          4 L
+[CLASSIFY] nanjing.auto.sohu.com                             :        515 L
+[CLASSIFY] baodian.women.sohu.com                            :       2515 L
+[CLASSIFY] ayham.i.auto.sohu.com                             :          8 L
+[CLASSIFY] bj.learning.sohu.com                              :          1 L
+[CLASSIFY] aiyihang.i.auto.sohu.com                          :          4 L
+[CLASSIFY] haishi1.i.auto.sohu.com                           :          1 L
+[CLASSIFY] sail.i.auto.sohu.com                              :         13 L
+[CLASSIFY] xiaoguizu.i.auto.sohu.com                         :          9 L
+[CLASSIFY] dfzzcross.i.auto.sohu.com                         :          3 L
+[CLASSIFY] chengde.auto.sohu.com                             :         45 L
+[CLASSIFY] q.stock.sohu.com                                  :      11492 L
+[CLASSIFY] jili.i.auto.sohu.com                              :          4 L
+[CLASSIFY] dealer.auto.sohu.com                              :      25052 L
+[CLASSIFY] club.money.business.sohu.com                      :          1 L
+[CLASSIFY] ix35.i.auto.sohu.com                              :          7 L
+[CLASSIFY] shcy.i.auto.sohu.com                              :          6 L
+[CLASSIFY] soccer.sports.sohu.com                            :        230 L
+[CLASSIFY] hengshui.i.auto.sohu.com                          :          5 L
+[CLASSIFY] focus.i.auto.sohu.com                             :        228 L
+[CLASSIFY] product.it.sohu.com                               :     149388 L
+[CLASSIFY] car022.i.auto.sohu.com                            :          2 L
+[CLASSIFY] daxue.learning.sohu.com                           :       6808 L
+[CLASSIFY] game.2010.sohu.com                                :          2 L
+[CLASSIFY] club.city.women.sohu.com                          :         84 L
+[CLASSIFY] aygo.i.auto.sohu.com                              :          1 L
+[CLASSIFY] zhuanti.club.money.sohu.com                       :          1 L
+[CLASSIFY] v.tv.sohu.com                                     :        131 L
+[CLASSIFY] chery-a3.i.auto.sohu.com                          :          9 L
+[CLASSIFY] guanli.i.auto.sohu.com                            :          1 L
+[CLASSIFY] pic.it.sohu.com                                   :        314 L
+[CLASSIFY] zone.it.sohu.com                                  :       5007 L
+[CLASSIFY] app.tv.sohu.com                                   :          1 L
+[CLASSIFY] p.club.astro.sohu.com                             :          8 L
+[CLASSIFY] sh.sohu.com                                       :       1007 L
+[CLASSIFY] bmw.i.auto.sohu.com                               :        748 L
+[CLASSIFY] daren.women.sohu.com                              :          1 L
+[CLASSIFY] lz.club.yule.sohu.com                             :          1 L
+[CLASSIFY] zhjcy.i.auto.sohu.com                             :          2 L
+[CLASSIFY] i.auto.sohu.com                                   :        100 L
+[CLASSIFY] pic.dm.sohu.com                                   :         14 L
+[CLASSIFY] q7.i.auto.sohu.com                                :          6 L
+[CLASSIFY] db.auto.sohu.com                                  :      56272 L
+[CLASSIFY] handan.auto.sohu.com                              :         88 L
+[CLASSIFY] green.sohu.com                                    :        277 L
+[CLASSIFY] ask.auto.sohu.com                                 :        809 L
+[CLASSIFY] act.it.sohu.com                                   :        770 L
+[CLASSIFY] vela.i.auto.sohu.com                              :          2 L
+[CLASSIFY] pic.business.sohu.com                             :        904 L
+[CLASSIFY] polo.i.auto.sohu.com                              :          3 L
+[CLASSIFY] guangzhou.auto.sohu.com                           :        448 L
+[CLASSIFY] index.health.sohu.com                             :         34 L
+[CLASSIFY] range-rover.i.auto.sohu.com                       :          3 L
+[CLASSIFY] zhuanti.club.astro.sohu.com                       :          1 L
+[CLASSIFY] goabroad.sohu.com                                 :        918 L
+[CLASSIFY] mazda32.i.auto.sohu.com                           :          6 L
+[CLASSIFY] club.goabroad.sohu.com                            :          4 L
+[CLASSIFY] t.auto.sohu.com                                   :         25 L
+[CLASSIFY] lacrosse.i.auto.sohu.com                          :          8 L
+[CLASSIFY] sheny.tv.sohu.com                                 :          7 L
+[CLASSIFY] lz.club.cul.sohu.com                              :          1 L
+[CLASSIFY] arts.cul.sohu.com                                 :        318 L
+[CLASSIFY] i30.i.auto.sohu.com                               :          6 L
+[CLASSIFY] dongfangzhizi.i.auto.sohu.com                     :          1 L
+[CLASSIFY] tuangouauto.i.auto.sohu.com                       :          1 L
+[CLASSIFY] men.sohu.com                                      :        381 L
+[CLASSIFY] pic.gd.sohu.com                                   :        224 L
+[CLASSIFY] tousu.auto.sohu.com                               :        559 L
+[CLASSIFY] club.mil.news.sohu.com                            :       1792 L
+[CLASSIFY] optima.i.auto.sohu.com                            :          4 L
+[CLASSIFY] gol.i.auto.sohu.com                               :          7 L
+[CLASSIFY] nanchang.auto.sohu.com                            :        180 L
+[CLASSIFY] club.health.sohu.com                              :        131 L
+[CLASSIFY] zhuanti.club.business.sohu.com                    :          6 L
+[CLASSIFY] p.club.travel.sohu.com                            :          4 L
+[CLASSIFY] chongqing.auto.sohu.com                           :        493 L
+[CLASSIFY] chwang.i.auto.sohu.com                            :          1 L
+[CLASSIFY] it.sohu.com                                       :       9432 L
+[CLASSIFY] jinbei.i.auto.sohu.com                            :          3 L
+[CLASSIFY] nmgcyh.i.auto.sohu.com                            :         13 L
+[CLASSIFY] sheying.club.sohu.com                             :         18 L
+[CLASSIFY] adidas.sports.sohu.com                            :        237 L
+[CLASSIFY] fit.i.auto.sohu.com                               :          3 L
+[CLASSIFY] chengdu.auto.sohu.com                             :        996 L
+[CLASSIFY] cbadata.sports.sohu.com                           :        995 L
+[CLASSIFY] sdcy.i.auto.sohu.com                              :          5 L
+[CLASSIFY] linzhou.i.auto.sohu.com                           :          2 L
+[CLASSIFY] wuhan.auto.sohu.com                               :        617 L
+[CLASSIFY] livina.i.auto.sohu.com                            :          5 L
+[CLASSIFY] passat.i.auto.sohu.com                            :        284 L
+[CLASSIFY] mobile.auto.sohu.com                              :          4 L
+[CLASSIFY] haima.i.auto.sohu.com                             :          1 L
+[CLASSIFY] haifuxing.i.auto.sohu.com                         :          6 L
+[CLASSIFY] qq6.i.auto.sohu.com                               :          6 L
+[CLASSIFY] jaguar-xk.i.auto.sohu.com                         :          1 L
+[CLASSIFY] p.club.health.sohu.com                            :          5 L
+[CLASSIFY] linyi.auto.sohu.com                               :        291 L
+[CLASSIFY] 05133.astro.women.sohu.com                        :          6 L
+[CLASSIFY] jlcyh.i.auto.sohu.com                             :          9 L
+[CLASSIFY] tiida.i.auto.sohu.com                             :          4 L
+[CLASSIFY] cache.club.sohu.com                               :          1 L
+[CLASSIFY] xacyh.i.auto.sohu.com                             :          5 L
+[CLASSIFY] jxcyh.i.auto.sohu.com                             :          4 L
+[CLASSIFY] clk-class.i.auto.sohu.com                         :          1 L
+[CLASSIFY] btbdx.i.auto.sohu.com                             :          4 L
+[CLASSIFY] chery-a5.i.auto.sohu.com                          :          2 L
+[CLASSIFY] pic.korea.sohu.com                                :        109 L
+[CLASSIFY] xjcyh.i.auto.sohu.com                             :          6 L
+[CLASSIFY] hiace.i.auto.sohu.com                             :          1 L
+[CLASSIFY] data.yule.sohu.com                                :       8040 L
+[CLASSIFY] f1.sports.sohu.com                                :        683 L
+[CLASSIFY] zhuanti.club.auto.sohu.com                        :          1 L
+[CLASSIFY] yantaicheyou.i.auto.sohu.com                      :          2 L
+[CLASSIFY] text.news.sohu.com                                :         16 L
+[CLASSIFY] p.club.sh.sohu.com                                :          2 L
+[CLASSIFY] haerbin.auto.sohu.com                             :        496 L
+[CLASSIFY] youxi.sports.sohu.com                             :       1567 L
+[CLASSIFY] pic.v.sohu.com                                    :          8 L
+[CLASSIFY] sddz.i.auto.sohu.com                              :          6 L
+[CLASSIFY] book.news.sohu.com                                :         10 L
+[CLASSIFY] club.men.sohu.com                                 :         20 L
+[CLASSIFY] outdoor.travel.sohu.com                           :         24 L
+[CLASSIFY] maverick.i.auto.sohu.com                          :          1 L
+[CLASSIFY] jinan.auto.sohu.com                               :        677 L
+[CLASSIFY] yule.sohu.com                                     :      12195 L
+[CLASSIFY] moinca.i.auto.sohu.com                            :          5 L
+[CLASSIFY] product.news.sohu.com                             :        268 L
+[CLASSIFY] ccrhy.i.auto.sohu.com                             :          2 L
+[CLASSIFY] q.fund.sohu.com                                   :       3498 L
+[CLASSIFY] picture.auto.sohu.com                             :       3567 L
+[CLASSIFY] yaris.i.auto.sohu.com                             :          5 L
+[CLASSIFY] yubei.i.auto.sohu.com                             :          3 L
+[CLASSIFY] data.tv.sohu.com                                  :        142 L
+[CLASSIFY] letv.auto.sohu.com                                :        167 L
+[CLASSIFY] kiasoul.i.auto.sohu.com                           :          5 L
+[CLASSIFY] mg.i.auto.sohu.com                                :          6 L
+[CLASSIFY] saab9-5.i.auto.sohu.com                           :          2 L
+[CLASSIFY] pic.travel.sohu.com                               :        306 L
+[CLASSIFY] index.tv.sohu.com                                 :        205 L
+[CLASSIFY] h2.i.auto.sohu.com                                :          1 L
+[CLASSIFY] tianjin.auto.sohu.com                             :       1484 L
+[CLASSIFY] p.club.city.travel.sohu.com                       :          3 L
+[CLASSIFY] cr-v.i.auto.sohu.com                              :         12 L
+[CLASSIFY] pic.learning.sohu.com                             :        318 L
+[CLASSIFY] autosup0311.i.auto.sohu.com                       :          7 L
+[CLASSIFY] camry.i.auto.sohu.com                             :          4 L
+[CLASSIFY] b50.i.auto.sohu.com                               :          4 L
+[CLASSIFY] xiamen.auto.sohu.com                              :        291 L
+[CLASSIFY] zhuanti.club.travel.sohu.com                      :          6 L
+[CLASSIFY] huhehaote.auto.sohu.com                           :         84 L
+[CLASSIFY] crown.i.auto.sohu.com                             :          4 L
+[CLASSIFY] db.i.auto.sohu.com                                :          1 L
+[CLASSIFY] yanguang.i.auto.sohu.com                          :          1 L
+[CLASSIFY] previa.i.auto.sohu.com                            :          2 L
+[CLASSIFY] learning.sohu.com                                 :       4440 L
+[CLASSIFY] tscyh.i.auto.sohu.com                             :          5 L
+[CLASSIFY] pic.gongyi.sohu.com                               :         52 L
+[CLASSIFY] zhuanti.club.yule.sohu.com                        :          8 L
+[CLASSIFY] adflash.sh.sohu.com                               :          1 L
+[CLASSIFY] wenzhou.auto.sohu.com                             :        387 L
+[CLASSIFY] rein.i.auto.sohu.com                              :          4 L
+[CLASSIFY] cccyh.i.auto.sohu.com                             :          5 L
+[CLASSIFY] huodongauto.i.auto.sohu.com                       :          2 L
+[CLASSIFY] haixun.i.auto.sohu.com                            :          2 L
+[CLASSIFY] forte.i.auto.sohu.com                             :          8 L
+[CLASSIFY] eos.i.auto.sohu.com                               :          2 L
+[CLASSIFY] xn.xy.club.sohu.com                               :         14 L
+[CLASSIFY] app.sh.sohu.com                                   :          7 L
+[CLASSIFY] dalian.auto.sohu.com                              :        702 L
+[CLASSIFY] expo2010.sohu.com                                 :          1 L
+[CLASSIFY] media.sohu.com                                    :        537 L
+[CLASSIFY] qq.i.auto.sohu.com                                :          2 L
+[CLASSIFY] act1.astro.women.sohu.com                         :        120 L
+[CLASSIFY] zhdcar.i.auto.sohu.com                            :          7 L
+[CLASSIFY] santana.i.auto.sohu.com                           :          8 L
+[CLASSIFY] xian.auto.sohu.com                                :        333 L
+[CLASSIFY] beetle.i.auto.sohu.com                            :          2 L
+[CLASSIFY] tpms.i.auto.sohu.com                              :          7 L
+[CLASSIFY] ningbo.auto.sohu.com                              :        260 L
+[CLASSIFY] lz.club.news.sohu.com                             :         81 L
+[CLASSIFY] buy.auto.sohu.com                                 :         37 L
+[CLASSIFY] binyue.i.auto.sohu.com                            :          3 L
+[CLASSIFY] chery.i.auto.sohu.com                             :          5 L
+[CLASSIFY] landwind-x9.i.auto.sohu.com                       :          1 L
+[CLASSIFY] mazda3.i.auto.sohu.com                            :         11 L
+[CLASSIFY] beijing.auto.sohu.com                             :        885 L
+[CLASSIFY] qingdao.auto.sohu.com                             :        601 L
+[CLASSIFY] borahb.i.auto.sohu.com                            :          1 L
+[CLASSIFY] kunming.saa.auto.sohu.com                         :          1 L
+[CLASSIFY] junjie.i.auto.sohu.com                            :          7 L
+[CLASSIFY] fengyun.i.auto.sohu.com                           :          5 L
+[CLASSIFY] sylphy.i.auto.sohu.com                            :          4 L
+[CLASSIFY] open.tv.sohu.com                                  :        379 L
+[CLASSIFY] neiguan.i.auto.sohu.com                           :          3 L
+[CLASSIFY] tjcyh.i.auto.sohu.com                             :         15 L
+[CLASSIFY] data.2010.sohu.com                                :        555 L
+[CLASSIFY] qashqai.i.auto.sohu.com                           :          4 L
+[CLASSIFY] sebring.i.auto.sohu.com                           :          7 L
+[CLASSIFY] buick.i.auto.sohu.com                             :         11 L
+[CLASSIFY] yantai.auto.sohu.com                              :        367 L
+[CLASSIFY] shxcyh.i.auto.sohu.com                            :          1 L
+[CLASSIFY] amg.i.auto.sohu.com                               :          3 L
+[CLASSIFY] index.auto.sohu.com                               :          1 L
+[CLASSIFY] zhuanti.club.sports.sohu.com                      :         39 L
+[CLASSIFY] xianghe.i.auto.sohu.com                           :          1 L
+[CLASSIFY] elantra.i.auto.sohu.com                           :          5 L
+[CLASSIFY] sdliaocheng.i.auto.sohu.com                       :          3 L
+[CLASSIFY] zhuanti.club.book.sohu.com                        :          5 L
+[CLASSIFY] reiz.i.auto.sohu.com                              :          6 L
+[CLASSIFY] p.club.cul.sohu.com                               :         28 L
+[CLASSIFY] porsche.i.auto.sohu.com                           :         10 L
+[CLASSIFY] baobao.sohu.com                                   :       2328 L
+[CLASSIFY] money.sohu.com                                    :       6210 L
+[CLASSIFY] astro.sohu.com                                    :         15 L
+[CLASSIFY] zhengzhou.auto.sohu.com                           :        580 L
+[CLASSIFY] wphone.zone.it.sohu.com                           :        771 L
+[CLASSIFY] teamchina.sports.sohu.com                         :         26 L
+[CLASSIFY] vip.club.sohu.com                                 :          2 L
+[CLASSIFY] banzhu.i.auto.sohu.com                            :          1 L
+[CLASSIFY] shxcy.i.auto.sohu.com                             :          4 L
+[CLASSIFY] hbbd.i.auto.sohu.com                              :         15 L
+[CLASSIFY] zbllz.i.auto.sohu.com                             :          8 L
+[CLASSIFY] p.club.gd.sohu.com                                :          5 L
+[CLASSIFY] greatwall.i.auto.sohu.com                         :          6 L
+[CLASSIFY] feixin.tv.sohu.com                                :          4 L
+[CLASSIFY] hefei.auto.sohu.com                               :        390 L
+[CLASSIFY] club.campus.sohu.com                              :          2 L
+[CLASSIFY] pic.news.sohu.com                                 :       9528 L
+[CLASSIFY] mil.news.sohu.com                                 :        820 L
+[CLASSIFY] geruisi.i.auto.sohu.com                           :          1 L
+[CLASSIFY] zhangjiakou.auto.sohu.com                         :         67 L
+[CLASSIFY] nantong.auto.sohu.com                             :        334 L
+[CLASSIFY] qhdforte.i.auto.sohu.com                          :          2 L
+[CLASSIFY] dise.health.sohu.com                              :        419 L
+[CLASSIFY] boss.sports.sohu.com                              :         12 L
+[CLASSIFY] 2004.sports.sohu.com                              :         44 L
+[CLASSIFY] cheyinghui.i.auto.sohu.com                        :          1 L
+[CLASSIFY] shenzhen.auto.sohu.com                            :        782 L
+[CLASSIFY] shenyang.auto.sohu.com                            :       1030 L
+[CLASSIFY] club.cul.sohu.com                                 :        807 L
+[CLASSIFY] go108.astro.women.sohu.com                        :        251 L
+[CLASSIFY] jscyh.i.auto.sohu.com                             :          9 L
+[CLASSIFY] epica.i.auto.sohu.com                             :          3 L
+[CLASSIFY] bmw-z3.i.auto.sohu.com                            :          3 L
+[CLASSIFY] galant2.i.auto.sohu.com                           :          2 L
+[CLASSIFY] lavida.i.auto.sohu.com                            :          9 L
+[CLASSIFY] tjky.i.auto.sohu.com                              :        437 L
+[CLASSIFY] chairman.i.auto.sohu.com                          :          1 L
+[CLASSIFY] ad.sh.sohu.com                                    :          4 L
+[CLASSIFY] star.news.sohu.com                                :       1593 L
+[CLASSIFY] club.stock.sohu.com                               :         91 L
+[CLASSIFY] benben.i.auto.sohu.com                            :          5 L
+[CLASSIFY] jinan.i.auto.sohu.com                             :          4 L
+[CLASSIFY] pic.astro.sohu.com                                :        138 L
+[CLASSIFY] haidian.i.auto.sohu.com                           :          2 L
+[CLASSIFY] lz.travel.sohu.com                                :          4 L
+[CLASSIFY] vios.i.auto.sohu.com                              :          3 L
+[CLASSIFY] xinfangban.i.auto.sohu.com                        :          7 L
+[CLASSIFY] qianlima.i.auto.sohu.com                          :          1 L
+[CLASSIFY] lz.club.travel.sohu.com                           :         34 L
+[CLASSIFY] luzun.i.auto.sohu.com                             :          1 L
+[CLASSIFY] yuexiang.i.auto.sohu.com                          :          7 L
+[CLASSIFY] hljcyh.i.auto.sohu.com                            :          2 L
+[CLASSIFY] 1soccer.sports.sohu.com                           :         25 L
+[CLASSIFY] ford-s-max.i.auto.sohu.com                        :          1 L
+[CLASSIFY] fengxing.i.auto.sohu.com                          :          7 L
+[CLASSIFY] fans.auto.sohu.com                                :          2 L
+[CLASSIFY] pic.money.sohu.com                                :         11 L
+[CLASSIFY] zhuanti.club.news.sohu.com                        :          3 L
+[CLASSIFY] mazda6.i.auto.sohu.com                            :          5 L
+[CLASSIFY] whcyh.i.auto.sohu.com                             :          5 L
+[CLASSIFY] pic.media.sohu.com                                :          4 L
+[CLASSIFY] hyundai.i.auto.sohu.com                           :          4 L
+[CLASSIFY] baoding.auto.sohu.com                             :         84 L
+[CLASSIFY] rqcyh.i.auto.sohu.com                             :          5 L
+[CLASSIFY] club.money.sohu.com                               :         29 L
+[CLASSIFY] digi.it.sohu.com                                  :       3852 L
+[CLASSIFY] sh.xy.club.sohu.com                               :         79 L
+[CLASSIFY] s3.i.auto.sohu.com                                :          1 L
+[CLASSIFY] s90.i.auto.sohu.com                               :          1 L
+[CLASSIFY] benz.i.auto.sohu.com                              :        265 L
+[CLASSIFY] dm.sohu.com                                       :         14 L
+[CLASSIFY] life.women.sohu.com                               :         27 L
+[CLASSIFY] book.sohu.com                                     :        128 L
+[CLASSIFY] octavia.i.auto.sohu.com                           :         16 L
+[CLASSIFY] pic.men.sohu.com                                  :        638 L
+[CLASSIFY] langfang.i.auto.sohu.com                          :          7 L
+[CLASSIFY] fiat.i.auto.sohu.com                              :          3 L
+[CLASSIFY] nba.sports.sohu.com                               :         39 L
+[CLASSIFY] jiaxing.auto.sohu.com                             :        354 L
+[CLASSIFY] henancy.i.auto.sohu.com                           :          6 L
+[CLASSIFY] bschool.sohu.com                                  :        130 L
+[CLASSIFY] pic.health.sohu.com                               :        431 L
+[CLASSIFY] bjoulande.i.auto.sohu.com                         :          6 L
+[CLASSIFY] gzcyh.i.auto.sohu.com                             :          3 L
+[CLASSIFY] zhuanti.club.it.sohu.com                          :         23 L
+[CLASSIFY] cangzhou.auto.sohu.com                            :         86 L
+[CLASSIFY] 17173.tv.sohu.com                                 :        487 L
+[CLASSIFY] club.chihe.sohu.com                               :         91 L
+[CLASSIFY] hhxy.i.auto.sohu.com                              :          5 L
+[CLASSIFY] guba.stock.sohu.com                               :        124 L
+[CLASSIFY] feiteng.i.auto.sohu.com                           :          1 L
+[CLASSIFY] ccsuteng.i.auto.sohu.com                          :          4 L
+[CLASSIFY] magotan.i.auto.sohu.com                           :        482 L
+[CLASSIFY] p.club.women.sohu.com                             :        310 L
+[CLASSIFY] money.business.sohu.com                           :        156 L
+[CLASSIFY] p.club.news.sohu.com                              :         23 L
+[CLASSIFY] tzzl.i.auto.sohu.com                              :          2 L
+[CLASSIFY] lova.i.auto.sohu.com                              :         15 L
+[CLASSIFY] t.stock.sohu.com                                  :       1933 L
+[CLASSIFY] pic.green.sohu.com                                :        165 L
+[CLASSIFY] zhixiang.i.auto.sohu.com                          :          6 L
+[CLASSIFY] teana.i.auto.sohu.com                             :         14 L
+[CLASSIFY] data.sports.sohu.com                              :        338 L
+[CLASSIFY] changchun.auto.sohu.com                           :        347 L
+[CLASSIFY] allroad.i.auto.sohu.com                           :          4 L
+[CLASSIFY] lz.astro.sohu.com                                 :          2 L
+[CLASSIFY] apple.zone.it.sohu.com                            :       1176 L
+[CLASSIFY] game.tv.sohu.com                                  :         97 L
+[CLASSIFY] pic.2008.sohu.com                                 :         19 L
+[CLASSIFY] lingyang.i.auto.sohu.com                          :          5 L
+[CLASSIFY] xy.learning.club.sohu.com                         :         74 L
+[CLASSIFY] lz.news.sohu.com                                  :         49 L
+[CLASSIFY] p.club.sports.sohu.com                            :          2 L
+[CLASSIFY] xinan.i.auto.sohu.com                             :          1 L
+[CLASSIFY] qqme.i.auto.sohu.com                              :          6 L
+[CLASSIFY] xiali.i.auto.sohu.com                             :          7 L
+[CLASSIFY] fund.sohu.com                                     :        857 L
+[CLASSIFY] Finished. | TOPIC_COUNT:       476
+[('roll.sohu.com', 670985), ('product.it.sohu.com', 149388), ('news.sohu.com', 63836), ('db.auto.sohu.com', 56272), ('sports.sohu.com', 37211), ('stock.sohu.com', 32178), ('pic.yule.sohu.com', 27350), ('dealer.auto.sohu.com', 25052), ('business.sohu.com', 20096), ('saa.auto.sohu.com', 19245), ('yule.sohu.com', 12195), ('q.stock.sohu.com', 11492), ('drug.health.sohu.com', 11366), ('haodf.health.sohu.com', 10885), ('pic.news.sohu.com', 9528), ('it.sohu.com', 9432), ('s.sohu.com', 8042), ('data.yule.sohu.com', 8040), ('daxue.learning.sohu.com', 6808), ('money.sohu.com', 6210), ('auto.sohu.com', 5716), ('zone.it.sohu.com', 5007), ('learning.sohu.com', 4440), ('digi.it.sohu.com', 3852), ('picture.auto.sohu.com', 3567), ('q.fund.sohu.com', 3498), ('goche.auto.sohu.com', 3469), ('vip.book.sohu.com', 3400), ('db.money.sohu.com', 2700), ('baodian.women.sohu.com', 2515), ('baobao.sohu.com', 2328), ('t.stock.sohu.com', 1933), ('club.mil.news.sohu.com', 1792), ('women.sohu.com', 1658), ('star.news.sohu.com', 1593), ('youxi.sports.sohu.com', 1567), ('music.yule.sohu.com', 1545), ('jingqu.travel.sohu.com', 1519), ('tianjin.auto.sohu.com', 1484), ('gd.sohu.com', 1263), ('apple.zone.it.sohu.com', 1176), ('shenyang.auto.sohu.com', 1030), ('club.sports.sohu.com', 1013), ('sh.sohu.com', 1007), ('chengdu.auto.sohu.com', 996), ('cbadata.sports.sohu.com', 995), ('goabroad.sohu.com', 918), ('pic.business.sohu.com', 904), ('beijing.auto.sohu.com', 885), ('fund.sohu.com', 857), ('mil.news.sohu.com', 820), ('ask.auto.sohu.com', 809), ('club.cul.sohu.com', 807), ('cbachina.sports.sohu.com', 800), ('shenzhen.auto.sohu.com', 782), ('wphone.zone.it.sohu.com', 771), ('act.it.sohu.com', 770), ('info.2008.sohu.com', 753), ('bmw.i.auto.sohu.com', 748), ('dalian.auto.sohu.com', 702), ('f1.sports.sohu.com', 683), ('jinan.auto.sohu.com', 677), ('hangzhou.auto.sohu.com', 670), ('pic.men.sohu.com', 638), ('wuhan.auto.sohu.com', 617), ('qingdao.auto.sohu.com', 601), ('zhengzhou.auto.sohu.com', 580), ('tousu.auto.sohu.com', 559), ('data.2010.sohu.com', 555), ('card.money.sohu.com', 539), ('media.sohu.com', 537), ('nanjing.auto.sohu.com', 515), ('haerbin.auto.sohu.com', 496), ('chongqing.auto.sohu.com', 493), ('17173.tv.sohu.com', 487), ('magotan.i.auto.sohu.com', 482), ('pic.cul.sohu.com', 479), ('guangzhou.auto.sohu.com', 448), ('suzhou.auto.sohu.com', 437), ('tjky.i.auto.sohu.com', 437), ('pic.health.sohu.com', 431), ('c5.i.auto.sohu.com', 420), ('dise.health.sohu.com', 419), ('hefei.auto.sohu.com', 390), ('wenzhou.auto.sohu.com', 387), ('men.sohu.com', 381), ('open.tv.sohu.com', 379), ('yantai.auto.sohu.com', 367), ('foshan.auto.sohu.com', 359), ('changsha.auto.sohu.com', 357), ('jiaxing.auto.sohu.com', 354), ('changchun.auto.sohu.com', 347), ('data.sports.sohu.com', 338), ('nantong.auto.sohu.com', 334), ('xian.auto.sohu.com', 333), ('arts.cul.sohu.com', 318), ('pic.learning.sohu.com', 318), ('pic.it.sohu.com', 314), ('p.club.women.sohu.com', 310), ('pic.travel.sohu.com', 306), ('wuxi.auto.sohu.com', 297), ('linyi.auto.sohu.com', 291), ('xiamen.auto.sohu.com', 291), ('club.book.sohu.com', 289), ('passat.i.auto.sohu.com', 284), ('green.sohu.com', 277), ('club.yule.sohu.com', 268), ('product.news.sohu.com', 268), ('benz.i.auto.sohu.com', 265), ('club.women.sohu.com', 261), ('ningbo.auto.sohu.com', 260), ('go108.astro.women.sohu.com', 251), ('chihe.sohu.com', 237), ('adidas.sports.sohu.com', 237), ('soccer.sports.sohu.com', 230), ('focus.i.auto.sohu.com', 228), ('club.city.travel.sohu.com', 227), ('pic.gd.sohu.com', 224), ('club.sh.sohu.com', 207), ('index.tv.sohu.com', 205), ('pic.chihe.sohu.com', 191), ('club.astro.sohu.com', 189), ('nanchang.auto.sohu.com', 180), ('letv.auto.sohu.com', 167), ('pic.green.sohu.com', 165), ('money.business.sohu.com', 156), ('babyclub.women.sohu.com', 155), ('gongyi.sohu.com', 152), ('stock.business.sohu.com', 147), ('data.tv.sohu.com', 142), ('pic.astro.sohu.com', 138), ('v.tv.sohu.com', 131), ('club.health.sohu.com', 131), ('bschool.sohu.com', 130), ('book.sohu.com', 128), ('beta.club.sohu.com', 124), ('guba.stock.sohu.com', 124), ('myway.astro.women.sohu.com', 123), ('csldata.sports.sohu.com', 120), ('act1.astro.women.sohu.com', 120), ('club.baobao.sohu.com', 118), ('pic.korea.sohu.com', 109), ('club.news.sohu.com', 107), ('i.auto.sohu.com', 100), ('game.tv.sohu.com', 97), ('club.stock.sohu.com', 91), ('club.chihe.sohu.com', 91), ('handan.auto.sohu.com', 88), ('cangzhou.auto.sohu.com', 86), ('club.city.women.sohu.com', 84), ('huhehaote.auto.sohu.com', 84), ('baoding.auto.sohu.com', 84), ('lz.club.news.sohu.com', 81), ('sh.xy.club.sohu.com', 79), ('xy.learning.club.sohu.com', 74), ('club.learning.sohu.com', 70), ('zhangjiakou.auto.sohu.com', 67), ('club.gd.sohu.com', 63), ('try.women.sohu.com', 62), ('pic.gongyi.sohu.com', 52), ('lz.news.sohu.com', 49), ('jsp.auto.sohu.com', 46), ('chengde.auto.sohu.com', 45), ('2004.sports.sohu.com', 44), ('index.business.sohu.com', 43), ('games.sohu.com', 42), ('zhuanti.club.sports.sohu.com', 39), ('nba.sports.sohu.com', 39), ('buy.auto.sohu.com', 37), ('baby.women.sohu.com', 35), ('2008.sohu.com', 34), ('index.health.sohu.com', 34), ('lz.club.travel.sohu.com', 34), ('club.money.sohu.com', 29), ('info.2012.sohu.com', 28), ('p.club.cul.sohu.com', 28), ('lz.club.gd.sohu.com', 27), ('life.women.sohu.com', 27), ('teamchina.sports.sohu.com', 26), ('club.it.sohu.com', 25), ('t.auto.sohu.com', 25), ('1soccer.sports.sohu.com', 25), ('outdoor.travel.sohu.com', 24), ('zhuanti.club.it.sohu.com', 23), ('p.club.news.sohu.com', 23), ('zhuanbo.2008.sohu.com', 22), ('club.men.sohu.com', 20), ('media.news.sohu.com', 19), ('pic.2008.sohu.com', 19), ('sheying.club.sohu.com', 18), ('club.travel.sohu.com', 17), ('cdcyh.i.auto.sohu.com', 16), ('text.news.sohu.com', 16), ('octavia.i.auto.sohu.com', 16), ('tjcyh.i.auto.sohu.com', 15), ('astro.sohu.com', 15), ('hbbd.i.auto.sohu.com', 15), ('lova.i.auto.sohu.com', 15), ('m.tv.sohu.com', 14), ('sdsail.i.auto.sohu.com', 14), ('pic.dm.sohu.com', 14), ('xn.xy.club.sohu.com', 14), ('dm.sohu.com', 14), ('teana.i.auto.sohu.com', 14), ('zhuanti.club.learning.sohu.com', 13), ('box.baobao.sohu.com', 13), ('p.club.business.sohu.com', 13), ('sail.i.auto.sohu.com', 13), ('nmgcyh.i.auto.sohu.com', 13), ('campus.learning.sohu.com', 12), ('sportage.i.auto.sohu.com', 12), ('cr-v.i.auto.sohu.com', 12), ('boss.sports.sohu.com', 12), ('hebcyh.i.auto.sohu.com', 11), ('cd.club.sohu.com', 11), ('zhuanti.club.health.sohu.com', 11), ('mazda3.i.auto.sohu.com', 11), ('buick.i.auto.sohu.com', 11), ('pic.money.sohu.com', 11), ('csl.sports.sohu.com', 10), ('touran.i.auto.sohu.com', 10), ('book.news.sohu.com', 10), ('porsche.i.auto.sohu.com', 10), ('ad2.sh.sohu.com', 9), ('lifan.i.auto.sohu.com', 9), ('sccyh.i.auto.sohu.com', 9), ('pic.tv.sohu.com', 9), ('club.comment2.news.sohu.com', 9), ('xiaoguizu.i.auto.sohu.com', 9), ('chery-a3.i.auto.sohu.com', 9), ('jlcyh.i.auto.sohu.com', 9), ('jscyh.i.auto.sohu.com', 9), ('lavida.i.auto.sohu.com', 9), ('lancerex.i.auto.sohu.com', 8), ('apple1218.i.auto.sohu.com', 8), ('handan.i.auto.sohu.com', 8), ('lz.club.sh.sohu.com', 8), ('ayham.i.auto.sohu.com', 8), ('p.club.astro.sohu.com', 8), ('lacrosse.i.auto.sohu.com', 8), ('pic.v.sohu.com', 8), ('zhuanti.club.yule.sohu.com', 8), ('forte.i.auto.sohu.com', 8), ('santana.i.auto.sohu.com', 8), ('zbllz.i.auto.sohu.com', 8), ('infinitiex.i.auto.sohu.com', 7), ('shxicyh.i.auto.sohu.com', 7), ('srx.i.auto.sohu.com', 7), ('zunchi.i.auto.sohu.com', 7), ('caddy.i.auto.sohu.com', 7), ('epica2.i.auto.sohu.com', 7), ('c30.i.auto.sohu.com', 7), ('qhdcy.i.auto.sohu.com', 7), ('ix35.i.auto.sohu.com', 7), ('sheny.tv.sohu.com', 7), ('gol.i.auto.sohu.com', 7), ('autosup0311.i.auto.sohu.com', 7), ('app.sh.sohu.com', 7), ('zhdcar.i.auto.sohu.com', 7), ('tpms.i.auto.sohu.com', 7), ('junjie.i.auto.sohu.com', 7), ('sebring.i.auto.sohu.com', 7), ('xinfangban.i.auto.sohu.com', 7), ('yuexiang.i.auto.sohu.com', 7), ('fengxing.i.auto.sohu.com', 7), ('langfang.i.auto.sohu.com', 7), ('xiali.i.auto.sohu.com', 7), ('zhuanti.club.chihe.sohu.com', 6), ('city.i.auto.sohu.com', 6), ('wlmqcyh.i.auto.sohu.com', 6), ('mgmg6.i.auto.sohu.com', 6), ('jingcai.club.sohu.com', 6), ('app.auto.sohu.com', 6), ('shcy.i.auto.sohu.com', 6), ('q7.i.auto.sohu.com', 6), ('mazda32.i.auto.sohu.com', 6), ('i30.i.auto.sohu.com', 6), ('zhuanti.club.business.sohu.com', 6), ('haifuxing.i.auto.sohu.com', 6), ('qq6.i.auto.sohu.com', 6), ('05133.astro.women.sohu.com', 6), ('xjcyh.i.auto.sohu.com', 6), ('sddz.i.auto.sohu.com', 6), ('mg.i.auto.sohu.com', 6), ('zhuanti.club.travel.sohu.com', 6), ('reiz.i.auto.sohu.com', 6), ('greatwall.i.auto.sohu.com', 6), ('henancy.i.auto.sohu.com', 6), ('bjoulande.i.auto.sohu.com', 6), ('zhixiang.i.auto.sohu.com', 6), ('qqme.i.auto.sohu.com', 6), ('helper.i.auto.sohu.com', 5), ('riichg5.i.auto.sohu.com', 5), ('benteng.i.auto.sohu.com', 5), ('pajero.i.auto.sohu.com', 5), ('volkswagen.i.auto.sohu.com', 5), ('hbcyh.i.auto.sohu.com', 5), ('haoqing.i.auto.sohu.com', 5), ('ceshi1.i.auto.sohu.com', 5), ('mycarclub.i.auto.sohu.com', 5), ('jingang.i.auto.sohu.com', 5), ('huapu.i.auto.sohu.com', 5), ('alto.i.auto.sohu.com', 5), ('206.i.auto.sohu.com', 5), ('escalade.i.auto.sohu.com', 5), ('hengshui.i.auto.sohu.com', 5), ('sdcy.i.auto.sohu.com', 5), ('livina.i.auto.sohu.com', 5), ('p.club.health.sohu.com', 5), ('xacyh.i.auto.sohu.com', 5), ('moinca.i.auto.sohu.com', 5), ('yaris.i.auto.sohu.com', 5), ('kiasoul.i.auto.sohu.com', 5), ('tscyh.i.auto.sohu.com', 5), ('cccyh.i.auto.sohu.com', 5), ('chery.i.auto.sohu.com', 5), ('fengyun.i.auto.sohu.com', 5), ('elantra.i.auto.sohu.com', 5), ('zhuanti.club.book.sohu.com', 5), ('p.club.gd.sohu.com', 5), ('benben.i.auto.sohu.com', 5), ('mazda6.i.auto.sohu.com', 5), ('whcyh.i.auto.sohu.com', 5), ('rqcyh.i.auto.sohu.com', 5), ('hhxy.i.auto.sohu.com', 5), ('lingyang.i.auto.sohu.com', 5), ('bora.i.auto.sohu.com', 4), ('acyz.i.auto.sohu.com', 4), ('ford.i.auto.sohu.com', 4), ('saddle.i.auto.sohu.com', 4), ('xialin3.i.auto.sohu.com', 4), ('perla.i.auto.sohu.com', 4), ('fulaier.i.auto.sohu.com', 4), ('huncyh.i.auto.sohu.com', 4), ('jetta.i.auto.sohu.com', 4), ('sx4.i.auto.sohu.com', 4), ('sdsx4.i.auto.sohu.com', 4), ('aiyihang.i.auto.sohu.com', 4), ('jili.i.auto.sohu.com', 4), ('club.goabroad.sohu.com', 4), ('optima.i.auto.sohu.com', 4), ('p.club.travel.sohu.com', 4), ('mobile.auto.sohu.com', 4), ('tiida.i.auto.sohu.com', 4), ('jxcyh.i.auto.sohu.com', 4), ('btbdx.i.auto.sohu.com', 4), ('camry.i.auto.sohu.com', 4), ('b50.i.auto.sohu.com', 4), ('crown.i.auto.sohu.com', 4), ('rein.i.auto.sohu.com', 4), ('sylphy.i.auto.sohu.com', 4), ('qashqai.i.auto.sohu.com', 4), ('shxcy.i.auto.sohu.com', 4), ('feixin.tv.sohu.com', 4), ('ad.sh.sohu.com', 4), ('jinan.i.auto.sohu.com', 4), ('lz.travel.sohu.com', 4), ('pic.media.sohu.com', 4), ('hyundai.i.auto.sohu.com', 4), ('ccsuteng.i.auto.sohu.com', 4), ('allroad.i.auto.sohu.com', 4), ('fenghua.i.auto.sohu.com', 3), ('300c.i.auto.sohu.com', 3), ('vision.i.auto.sohu.com', 3), ('huamulan.i.auto.sohu.com', 3), ('panda.i.auto.sohu.com', 3), ('fukang.i.auto.sohu.com', 3), ('dfzzcross.i.auto.sohu.com', 3), ('polo.i.auto.sohu.com', 3), ('range-rover.i.auto.sohu.com', 3), ('jinbei.i.auto.sohu.com', 3), ('fit.i.auto.sohu.com', 3), ('yubei.i.auto.sohu.com', 3), ('p.club.city.travel.sohu.com', 3), ('binyue.i.auto.sohu.com', 3), ('neiguan.i.auto.sohu.com', 3), ('amg.i.auto.sohu.com', 3), ('sdliaocheng.i.auto.sohu.com', 3), ('epica.i.auto.sohu.com', 3), ('bmw-z3.i.auto.sohu.com', 3), ('vios.i.auto.sohu.com', 3), ('zhuanti.club.news.sohu.com', 3), ('fiat.i.auto.sohu.com', 3), ('gzcyh.i.auto.sohu.com', 3), ('nr.book.sohu.com', 2), ('xn.xy.learning.club.sohu.com', 2), ('shijixing.i.auto.sohu.com', 2), ('weather.news.sohu.com', 2), ('corolla.i.auto.sohu.com', 2), ('grandis.i.auto.sohu.com', 2), ('golf.i.auto.sohu.com', 2), ('liberty.i.auto.sohu.com', 2), ('regal.i.auto.sohu.com', 2), ('car022.i.auto.sohu.com', 2), ('game.2010.sohu.com', 2), ('zhjcy.i.auto.sohu.com', 2), ('vela.i.auto.sohu.com', 2), ('linzhou.i.auto.sohu.com', 2), ('chery-a5.i.auto.sohu.com', 2), ('yantaicheyou.i.auto.sohu.com', 2), ('p.club.sh.sohu.com', 2), ('ccrhy.i.auto.sohu.com', 2), ('saab9-5.i.auto.sohu.com', 2), ('previa.i.auto.sohu.com', 2), ('huodongauto.i.auto.sohu.com', 2), ('haixun.i.auto.sohu.com', 2), ('eos.i.auto.sohu.com', 2), ('qq.i.auto.sohu.com', 2), ('beetle.i.auto.sohu.com', 2), ('vip.club.sohu.com', 2), ('club.campus.sohu.com', 2), ('qhdforte.i.auto.sohu.com', 2), ('galant2.i.auto.sohu.com', 2), ('haidian.i.auto.sohu.com', 2), ('hljcyh.i.auto.sohu.com', 2), ('fans.auto.sohu.com', 2), ('tzzl.i.auto.sohu.com', 2), ('lz.astro.sohu.com', 2), ('p.club.sports.sohu.com', 2), ('weiqi.sports.sohu.com', 1), ('jaguar-xj.i.auto.sohu.com', 1), ('lupo.i.auto.sohu.com', 1), ('sip1288.i.auto.sohu.com', 1), ('spyker.i.auto.sohu.com', 1), ('huodong.i.auto.sohu.com', 1), ('hldcyh.i.auto.sohu.com', 1), ('navigator.i.auto.sohu.com', 1), ('xbxfz.i.auto.sohu.com', 1), ('zhongyi.i.auto.sohu.com', 1), ('anhuifuwu.i.auto.sohu.com', 1), ('tuan.sohu.com', 1), ('autofans.i.auto.sohu.com', 1), ('sdtiida.i.auto.sohu.com', 1), ('bj.learning.sohu.com', 1), ('haishi1.i.auto.sohu.com', 1), ('club.money.business.sohu.com', 1), ('aygo.i.auto.sohu.com', 1), ('zhuanti.club.money.sohu.com', 1), ('guanli.i.auto.sohu.com', 1), ('app.tv.sohu.com', 1), ('daren.women.sohu.com', 1), ('lz.club.yule.sohu.com', 1), ('zhuanti.club.astro.sohu.com', 1), ('lz.club.cul.sohu.com', 1), ('dongfangzhizi.i.auto.sohu.com', 1), ('tuangouauto.i.auto.sohu.com', 1), ('chwang.i.auto.sohu.com', 1), ('haima.i.auto.sohu.com', 1), ('jaguar-xk.i.auto.sohu.com', 1), ('cache.club.sohu.com', 1), ('clk-class.i.auto.sohu.com', 1), ('hiace.i.auto.sohu.com', 1), ('zhuanti.club.auto.sohu.com', 1), ('maverick.i.auto.sohu.com', 1), ('h2.i.auto.sohu.com', 1), ('db.i.auto.sohu.com', 1), ('yanguang.i.auto.sohu.com', 1), ('adflash.sh.sohu.com', 1), ('expo2010.sohu.com', 1), ('landwind-x9.i.auto.sohu.com', 1), ('borahb.i.auto.sohu.com', 1), ('kunming.saa.auto.sohu.com', 1), ('shxcyh.i.auto.sohu.com', 1), ('index.auto.sohu.com', 1), ('xianghe.i.auto.sohu.com', 1), ('banzhu.i.auto.sohu.com', 1), ('geruisi.i.auto.sohu.com', 1), ('cheyinghui.i.auto.sohu.com', 1), ('chairman.i.auto.sohu.com', 1), ('qianlima.i.auto.sohu.com', 1), ('luzun.i.auto.sohu.com', 1), ('ford-s-max.i.auto.sohu.com', 1), ('s3.i.auto.sohu.com', 1), ('s90.i.auto.sohu.com', 1), ('feiteng.i.auto.sohu.com', 1), ('xinan.i.auto.sohu.com', 1)]
+roll.sohu.com                           :  670985
+product.it.sohu.com                     :  149388
+news.sohu.com                           :   63836
+db.auto.sohu.com                        :   56272
+sports.sohu.com                         :   37211
+stock.sohu.com                          :   32178
+pic.yule.sohu.com                       :   27350
+dealer.auto.sohu.com                    :   25052
+business.sohu.com                       :   20096
+saa.auto.sohu.com                       :   19245
+yule.sohu.com                           :   12195
+q.stock.sohu.com                        :   11492
+drug.health.sohu.com                    :   11366
+haodf.health.sohu.com                   :   10885
+pic.news.sohu.com                       :    9528
+it.sohu.com                             :    9432
+s.sohu.com                              :    8042
+data.yule.sohu.com                      :    8040
+daxue.learning.sohu.com                 :    6808
+money.sohu.com                          :    6210
+auto.sohu.com                           :    5716
+zone.it.sohu.com                        :    5007
+learning.sohu.com                       :    4440
+digi.it.sohu.com                        :    3852
+picture.auto.sohu.com                   :    3567
+q.fund.sohu.com                         :    3498
+goche.auto.sohu.com                     :    3469
+vip.book.sohu.com                       :    3400
+db.money.sohu.com                       :    2700
+baodian.women.sohu.com                  :    2515
+baobao.sohu.com                         :    2328
+t.stock.sohu.com                        :    1933
+club.mil.news.sohu.com                  :    1792
+women.sohu.com                          :    1658
+star.news.sohu.com                      :    1593
+youxi.sports.sohu.com                   :    1567
+music.yule.sohu.com                     :    1545
+jingqu.travel.sohu.com                  :    1519
+tianjin.auto.sohu.com                   :    1484
+gd.sohu.com                             :    1263
+apple.zone.it.sohu.com                  :    1176
+shenyang.auto.sohu.com                  :    1030
+club.sports.sohu.com                    :    1013
+sh.sohu.com                             :    1007
+chengdu.auto.sohu.com                   :     996
+cbadata.sports.sohu.com                 :     995
+goabroad.sohu.com                       :     918
+pic.business.sohu.com                   :     904
+beijing.auto.sohu.com                   :     885
+fund.sohu.com                           :     857
+mil.news.sohu.com                       :     820
+ask.auto.sohu.com                       :     809
+club.cul.sohu.com                       :     807
+cbachina.sports.sohu.com                :     800
+shenzhen.auto.sohu.com                  :     782
+wphone.zone.it.sohu.com                 :     771
+act.it.sohu.com                         :     770
+info.2008.sohu.com                      :     753
+bmw.i.auto.sohu.com                     :     748
+dalian.auto.sohu.com                    :     702
+f1.sports.sohu.com                      :     683
+jinan.auto.sohu.com                     :     677
+hangzhou.auto.sohu.com                  :     670
+pic.men.sohu.com                        :     638
+wuhan.auto.sohu.com                     :     617
+qingdao.auto.sohu.com                   :     601
+zhengzhou.auto.sohu.com                 :     580
+tousu.auto.sohu.com                     :     559
+data.2010.sohu.com                      :     555
+card.money.sohu.com                     :     539
+media.sohu.com                          :     537
+nanjing.auto.sohu.com                   :     515
+haerbin.auto.sohu.com                   :     496
+chongqing.auto.sohu.com                 :     493
+17173.tv.sohu.com                       :     487
+magotan.i.auto.sohu.com                 :     482
+pic.cul.sohu.com                        :     479
+guangzhou.auto.sohu.com                 :     448
+suzhou.auto.sohu.com                    :     437
+tjky.i.auto.sohu.com                    :     437
+pic.health.sohu.com                     :     431
+c5.i.auto.sohu.com                      :     420
+dise.health.sohu.com                    :     419
+hefei.auto.sohu.com                     :     390
+wenzhou.auto.sohu.com                   :     387
+men.sohu.com                            :     381
+open.tv.sohu.com                        :     379
+yantai.auto.sohu.com                    :     367
+foshan.auto.sohu.com                    :     359
+changsha.auto.sohu.com                  :     357
+jiaxing.auto.sohu.com                   :     354
+changchun.auto.sohu.com                 :     347
+data.sports.sohu.com                    :     338
+nantong.auto.sohu.com                   :     334
+xian.auto.sohu.com                      :     333
+arts.cul.sohu.com                       :     318
+pic.learning.sohu.com                   :     318
+pic.it.sohu.com                         :     314
+p.club.women.sohu.com                   :     310
+pic.travel.sohu.com                     :     306
+wuxi.auto.sohu.com                      :     297
+linyi.auto.sohu.com                     :     291
+xiamen.auto.sohu.com                    :     291
+club.book.sohu.com                      :     289
+passat.i.auto.sohu.com                  :     284
+green.sohu.com                          :     277
+club.yule.sohu.com                      :     268
+product.news.sohu.com                   :     268
+benz.i.auto.sohu.com                    :     265
+club.women.sohu.com                     :     261
+ningbo.auto.sohu.com                    :     260
+go108.astro.women.sohu.com              :     251
+chihe.sohu.com                          :     237
+adidas.sports.sohu.com                  :     237
+soccer.sports.sohu.com                  :     230
+focus.i.auto.sohu.com                   :     228
+club.city.travel.sohu.com               :     227
+pic.gd.sohu.com                         :     224
+club.sh.sohu.com                        :     207
+index.tv.sohu.com                       :     205
+pic.chihe.sohu.com                      :     191
+club.astro.sohu.com                     :     189
+nanchang.auto.sohu.com                  :     180
+letv.auto.sohu.com                      :     167
+pic.green.sohu.com                      :     165
+money.business.sohu.com                 :     156
+babyclub.women.sohu.com                 :     155
+gongyi.sohu.com                         :     152
+stock.business.sohu.com                 :     147
+data.tv.sohu.com                        :     142
+pic.astro.sohu.com                      :     138
+v.tv.sohu.com                           :     131
+club.health.sohu.com                    :     131
+bschool.sohu.com                        :     130
+book.sohu.com                           :     128
+beta.club.sohu.com                      :     124
+guba.stock.sohu.com                     :     124
+myway.astro.women.sohu.com              :     123
+csldata.sports.sohu.com                 :     120
+act1.astro.women.sohu.com               :     120
+club.baobao.sohu.com                    :     118
+pic.korea.sohu.com                      :     109
+club.news.sohu.com                      :     107
+i.auto.sohu.com                         :     100
+game.tv.sohu.com                        :      97
+club.stock.sohu.com                     :      91
+club.chihe.sohu.com                     :      91
+handan.auto.sohu.com                    :      88
+cangzhou.auto.sohu.com                  :      86
+club.city.women.sohu.com                :      84
+huhehaote.auto.sohu.com                 :      84
+baoding.auto.sohu.com                   :      84
+lz.club.news.sohu.com                   :      81
+sh.xy.club.sohu.com                     :      79
+xy.learning.club.sohu.com               :      74
+club.learning.sohu.com                  :      70
+zhangjiakou.auto.sohu.com               :      67
+club.gd.sohu.com                        :      63
+try.women.sohu.com                      :      62
+pic.gongyi.sohu.com                     :      52
+lz.news.sohu.com                        :      49
+jsp.auto.sohu.com                       :      46
+chengde.auto.sohu.com                   :      45
+2004.sports.sohu.com                    :      44
+index.business.sohu.com                 :      43
+games.sohu.com                          :      42
+zhuanti.club.sports.sohu.com            :      39
+nba.sports.sohu.com                     :      39
+buy.auto.sohu.com                       :      37
+baby.women.sohu.com                     :      35
+2008.sohu.com                           :      34
+index.health.sohu.com                   :      34
+lz.club.travel.sohu.com                 :      34
+club.money.sohu.com                     :      29
+info.2012.sohu.com                      :      28
+p.club.cul.sohu.com                     :      28
+lz.club.gd.sohu.com                     :      27
+life.women.sohu.com                     :      27
+teamchina.sports.sohu.com               :      26
+club.it.sohu.com                        :      25
+t.auto.sohu.com                         :      25
+1soccer.sports.sohu.com                 :      25
+outdoor.travel.sohu.com                 :      24
+zhuanti.club.it.sohu.com                :      23
+p.club.news.sohu.com                    :      23
+zhuanbo.2008.sohu.com                   :      22
+club.men.sohu.com                       :      20
+media.news.sohu.com                     :      19
+pic.2008.sohu.com                       :      19
+sheying.club.sohu.com                   :      18
+club.travel.sohu.com                    :      17
+cdcyh.i.auto.sohu.com                   :      16
+text.news.sohu.com                      :      16
+octavia.i.auto.sohu.com                 :      16
+tjcyh.i.auto.sohu.com                   :      15
+astro.sohu.com                          :      15
+hbbd.i.auto.sohu.com                    :      15
+lova.i.auto.sohu.com                    :      15
+m.tv.sohu.com                           :      14
+sdsail.i.auto.sohu.com                  :      14
+pic.dm.sohu.com                         :      14
+xn.xy.club.sohu.com                     :      14
+dm.sohu.com                             :      14
+teana.i.auto.sohu.com                   :      14
+zhuanti.club.learning.sohu.com          :      13
+box.baobao.sohu.com                     :      13
+p.club.business.sohu.com                :      13
+sail.i.auto.sohu.com                    :      13
+nmgcyh.i.auto.sohu.com                  :      13
+campus.learning.sohu.com                :      12
+sportage.i.auto.sohu.com                :      12
+cr-v.i.auto.sohu.com                    :      12
+boss.sports.sohu.com                    :      12
+hebcyh.i.auto.sohu.com                  :      11
+cd.club.sohu.com                        :      11
+zhuanti.club.health.sohu.com            :      11
+mazda3.i.auto.sohu.com                  :      11
+buick.i.auto.sohu.com                   :      11
+pic.money.sohu.com                      :      11
+csl.sports.sohu.com                     :      10
+touran.i.auto.sohu.com                  :      10
+book.news.sohu.com                      :      10
+porsche.i.auto.sohu.com                 :      10
+ad2.sh.sohu.com                         :       9
+lifan.i.auto.sohu.com                   :       9
+sccyh.i.auto.sohu.com                   :       9
+pic.tv.sohu.com                         :       9
+club.comment2.news.sohu.com             :       9
+xiaoguizu.i.auto.sohu.com               :       9
+chery-a3.i.auto.sohu.com                :       9
+jlcyh.i.auto.sohu.com                   :       9
+jscyh.i.auto.sohu.com                   :       9
+lavida.i.auto.sohu.com                  :       9
+lancerex.i.auto.sohu.com                :       8
+apple1218.i.auto.sohu.com               :       8
+handan.i.auto.sohu.com                  :       8
+lz.club.sh.sohu.com                     :       8
+ayham.i.auto.sohu.com                   :       8
+p.club.astro.sohu.com                   :       8
+lacrosse.i.auto.sohu.com                :       8
+pic.v.sohu.com                          :       8
+zhuanti.club.yule.sohu.com              :       8
+forte.i.auto.sohu.com                   :       8
+santana.i.auto.sohu.com                 :       8
+zbllz.i.auto.sohu.com                   :       8
+infinitiex.i.auto.sohu.com              :       7
+shxicyh.i.auto.sohu.com                 :       7
+srx.i.auto.sohu.com                     :       7
+zunchi.i.auto.sohu.com                  :       7
+caddy.i.auto.sohu.com                   :       7
+epica2.i.auto.sohu.com                  :       7
+c30.i.auto.sohu.com                     :       7
+qhdcy.i.auto.sohu.com                   :       7
+ix35.i.auto.sohu.com                    :       7
+sheny.tv.sohu.com                       :       7
+gol.i.auto.sohu.com                     :       7
+autosup0311.i.auto.sohu.com             :       7
+app.sh.sohu.com                         :       7
+zhdcar.i.auto.sohu.com                  :       7
+tpms.i.auto.sohu.com                    :       7
+junjie.i.auto.sohu.com                  :       7
+sebring.i.auto.sohu.com                 :       7
+xinfangban.i.auto.sohu.com              :       7
+yuexiang.i.auto.sohu.com                :       7
+fengxing.i.auto.sohu.com                :       7
+langfang.i.auto.sohu.com                :       7
+xiali.i.auto.sohu.com                   :       7
+zhuanti.club.chihe.sohu.com             :       6
+city.i.auto.sohu.com                    :       6
+wlmqcyh.i.auto.sohu.com                 :       6
+mgmg6.i.auto.sohu.com                   :       6
+jingcai.club.sohu.com                   :       6
+app.auto.sohu.com                       :       6
+shcy.i.auto.sohu.com                    :       6
+q7.i.auto.sohu.com                      :       6
+mazda32.i.auto.sohu.com                 :       6
+i30.i.auto.sohu.com                     :       6
+zhuanti.club.business.sohu.com          :       6
+haifuxing.i.auto.sohu.com               :       6
+qq6.i.auto.sohu.com                     :       6
+05133.astro.women.sohu.com              :       6
+xjcyh.i.auto.sohu.com                   :       6
+sddz.i.auto.sohu.com                    :       6
+mg.i.auto.sohu.com                      :       6
+zhuanti.club.travel.sohu.com            :       6
+reiz.i.auto.sohu.com                    :       6
+greatwall.i.auto.sohu.com               :       6
+henancy.i.auto.sohu.com                 :       6
+bjoulande.i.auto.sohu.com               :       6
+zhixiang.i.auto.sohu.com                :       6
+qqme.i.auto.sohu.com                    :       6
+helper.i.auto.sohu.com                  :       5
+riichg5.i.auto.sohu.com                 :       5
+benteng.i.auto.sohu.com                 :       5
+pajero.i.auto.sohu.com                  :       5
+volkswagen.i.auto.sohu.com              :       5
+hbcyh.i.auto.sohu.com                   :       5
+haoqing.i.auto.sohu.com                 :       5
+ceshi1.i.auto.sohu.com                  :       5
+mycarclub.i.auto.sohu.com               :       5
+jingang.i.auto.sohu.com                 :       5
+huapu.i.auto.sohu.com                   :       5
+alto.i.auto.sohu.com                    :       5
+206.i.auto.sohu.com                     :       5
+escalade.i.auto.sohu.com                :       5
+hengshui.i.auto.sohu.com                :       5
+sdcy.i.auto.sohu.com                    :       5
+livina.i.auto.sohu.com                  :       5
+p.club.health.sohu.com                  :       5
+xacyh.i.auto.sohu.com                   :       5
+moinca.i.auto.sohu.com                  :       5
+yaris.i.auto.sohu.com                   :       5
+kiasoul.i.auto.sohu.com                 :       5
+tscyh.i.auto.sohu.com                   :       5
+cccyh.i.auto.sohu.com                   :       5
+chery.i.auto.sohu.com                   :       5
+fengyun.i.auto.sohu.com                 :       5
+elantra.i.auto.sohu.com                 :       5
+zhuanti.club.book.sohu.com              :       5
+p.club.gd.sohu.com                      :       5
+benben.i.auto.sohu.com                  :       5
+mazda6.i.auto.sohu.com                  :       5
+whcyh.i.auto.sohu.com                   :       5
+rqcyh.i.auto.sohu.com                   :       5
+hhxy.i.auto.sohu.com                    :       5
+lingyang.i.auto.sohu.com                :       5
+bora.i.auto.sohu.com                    :       4
+acyz.i.auto.sohu.com                    :       4
+ford.i.auto.sohu.com                    :       4
+saddle.i.auto.sohu.com                  :       4
+xialin3.i.auto.sohu.com                 :       4
+perla.i.auto.sohu.com                   :       4
+fulaier.i.auto.sohu.com                 :       4
+huncyh.i.auto.sohu.com                  :       4
+jetta.i.auto.sohu.com                   :       4
+sx4.i.auto.sohu.com                     :       4
+sdsx4.i.auto.sohu.com                   :       4
+aiyihang.i.auto.sohu.com                :       4
+jili.i.auto.sohu.com                    :       4
+club.goabroad.sohu.com                  :       4
+optima.i.auto.sohu.com                  :       4
+p.club.travel.sohu.com                  :       4
+mobile.auto.sohu.com                    :       4
+tiida.i.auto.sohu.com                   :       4
+jxcyh.i.auto.sohu.com                   :       4
+btbdx.i.auto.sohu.com                   :       4
+camry.i.auto.sohu.com                   :       4
+b50.i.auto.sohu.com                     :       4
+crown.i.auto.sohu.com                   :       4
+rein.i.auto.sohu.com                    :       4
+sylphy.i.auto.sohu.com                  :       4
+qashqai.i.auto.sohu.com                 :       4
+shxcy.i.auto.sohu.com                   :       4
+feixin.tv.sohu.com                      :       4
+ad.sh.sohu.com                          :       4
+jinan.i.auto.sohu.com                   :       4
+lz.travel.sohu.com                      :       4
+pic.media.sohu.com                      :       4
+hyundai.i.auto.sohu.com                 :       4
+ccsuteng.i.auto.sohu.com                :       4
+allroad.i.auto.sohu.com                 :       4
+fenghua.i.auto.sohu.com                 :       3
+300c.i.auto.sohu.com                    :       3
+vision.i.auto.sohu.com                  :       3
+huamulan.i.auto.sohu.com                :       3
+panda.i.auto.sohu.com                   :       3
+fukang.i.auto.sohu.com                  :       3
+dfzzcross.i.auto.sohu.com               :       3
+polo.i.auto.sohu.com                    :       3
+range-rover.i.auto.sohu.com             :       3
+jinbei.i.auto.sohu.com                  :       3
+fit.i.auto.sohu.com                     :       3
+yubei.i.auto.sohu.com                   :       3
+p.club.city.travel.sohu.com             :       3
+binyue.i.auto.sohu.com                  :       3
+neiguan.i.auto.sohu.com                 :       3
+amg.i.auto.sohu.com                     :       3
+sdliaocheng.i.auto.sohu.com             :       3
+epica.i.auto.sohu.com                   :       3
+bmw-z3.i.auto.sohu.com                  :       3
+vios.i.auto.sohu.com                    :       3
+zhuanti.club.news.sohu.com              :       3
+fiat.i.auto.sohu.com                    :       3
+gzcyh.i.auto.sohu.com                   :       3
+nr.book.sohu.com                        :       2
+xn.xy.learning.club.sohu.com            :       2
+shijixing.i.auto.sohu.com               :       2
+weather.news.sohu.com                   :       2
+corolla.i.auto.sohu.com                 :       2
+grandis.i.auto.sohu.com                 :       2
+golf.i.auto.sohu.com                    :       2
+liberty.i.auto.sohu.com                 :       2
+regal.i.auto.sohu.com                   :       2
+car022.i.auto.sohu.com                  :       2
+game.2010.sohu.com                      :       2
+zhjcy.i.auto.sohu.com                   :       2
+vela.i.auto.sohu.com                    :       2
+linzhou.i.auto.sohu.com                 :       2
+chery-a5.i.auto.sohu.com                :       2
+yantaicheyou.i.auto.sohu.com            :       2
+p.club.sh.sohu.com                      :       2
+ccrhy.i.auto.sohu.com                   :       2
+saab9-5.i.auto.sohu.com                 :       2
+previa.i.auto.sohu.com                  :       2
+huodongauto.i.auto.sohu.com             :       2
+haixun.i.auto.sohu.com                  :       2
+eos.i.auto.sohu.com                     :       2
+qq.i.auto.sohu.com                      :       2
+beetle.i.auto.sohu.com                  :       2
+vip.club.sohu.com                       :       2
+club.campus.sohu.com                    :       2
+qhdforte.i.auto.sohu.com                :       2
+galant2.i.auto.sohu.com                 :       2
+haidian.i.auto.sohu.com                 :       2
+hljcyh.i.auto.sohu.com                  :       2
+fans.auto.sohu.com                      :       2
+tzzl.i.auto.sohu.com                    :       2
+lz.astro.sohu.com                       :       2
+p.club.sports.sohu.com                  :       2
+weiqi.sports.sohu.com                   :       1
+jaguar-xj.i.auto.sohu.com               :       1
+lupo.i.auto.sohu.com                    :       1
+sip1288.i.auto.sohu.com                 :       1
+spyker.i.auto.sohu.com                  :       1
+huodong.i.auto.sohu.com                 :       1
+hldcyh.i.auto.sohu.com                  :       1
+navigator.i.auto.sohu.com               :       1
+xbxfz.i.auto.sohu.com                   :       1
+zhongyi.i.auto.sohu.com                 :       1
+anhuifuwu.i.auto.sohu.com               :       1
+tuan.sohu.com                           :       1
+autofans.i.auto.sohu.com                :       1
+sdtiida.i.auto.sohu.com                 :       1
+bj.learning.sohu.com                    :       1
+haishi1.i.auto.sohu.com                 :       1
+club.money.business.sohu.com            :       1
+aygo.i.auto.sohu.com                    :       1
+zhuanti.club.money.sohu.com             :       1
+guanli.i.auto.sohu.com                  :       1
+app.tv.sohu.com                         :       1
+daren.women.sohu.com                    :       1
+lz.club.yule.sohu.com                   :       1
+zhuanti.club.astro.sohu.com             :       1
+lz.club.cul.sohu.com                    :       1
+dongfangzhizi.i.auto.sohu.com           :       1
+tuangouauto.i.auto.sohu.com             :       1
+chwang.i.auto.sohu.com                  :       1
+haima.i.auto.sohu.com                   :       1
+jaguar-xk.i.auto.sohu.com               :       1
+cache.club.sohu.com                     :       1
+clk-class.i.auto.sohu.com               :       1
+hiace.i.auto.sohu.com                   :       1
+zhuanti.club.auto.sohu.com              :       1
+maverick.i.auto.sohu.com                :       1
+h2.i.auto.sohu.com                      :       1
+db.i.auto.sohu.com                      :       1
+yanguang.i.auto.sohu.com                :       1
+adflash.sh.sohu.com                     :       1
+expo2010.sohu.com                       :       1
+landwind-x9.i.auto.sohu.com             :       1
+borahb.i.auto.sohu.com                  :       1
+kunming.saa.auto.sohu.com               :       1
+shxcyh.i.auto.sohu.com                  :       1
+index.auto.sohu.com                     :       1
+xianghe.i.auto.sohu.com                 :       1
+banzhu.i.auto.sohu.com                  :       1
+geruisi.i.auto.sohu.com                 :       1
+cheyinghui.i.auto.sohu.com              :       1
+chairman.i.auto.sohu.com                :       1
+qianlima.i.auto.sohu.com                :       1
+luzun.i.auto.sohu.com                   :       1
+ford-s-max.i.auto.sohu.com              :       1
+s3.i.auto.sohu.com                      :       1
+s90.i.auto.sohu.com                     :       1
+feiteng.i.auto.sohu.com                 :       1
+xinan.i.auto.sohu.com                   :       1
