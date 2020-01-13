@@ -64,10 +64,12 @@
     |--./log
     |---./log_count.txt
     |---./topic_count_list.txt
+    
     该模块为k-Means算法相关的所有实现，详情见代码注释
     |-./k_means_sklearn
     |--./__init__.py
     |--./k_means_alg.py
+    
     该部分为所有数据本地化仓库(详情请见本地化数据说明)
     |-./results
     |--./figures
@@ -77,8 +79,10 @@
     |--./seg_part_cache
     |--./top_50
     |--./*.txt
+    
     该部分用于存放部分cache文件，无其他用处
     |-./temp
+    
     该模块用于实现一些小工具以及字体文件
     |-./utils
     |--./font: 用于保存字体文件（本字体文件适用于mac os中文显示）
@@ -88,12 +92,14 @@
     |--./getContent.sh: 终端命令
     |--./line_to_list.py: (弃用)
     |--./word_segment_multi_processing.py: 用于多进程加速预处理数据 
+    
     该模块实现与word2vec相关的所有功能
     |-./word2vec_gensim
     |--./__init__.py
     |--./painter.py: 水平直方图绘制
     |--./word2vec.py: 算法API调用及部分功能实现，详情请移步源码文件
     |--./Word2VecDocument.pages: API参数说明，From: 库文件
+    
     该模块实现词云功能，详情请移步word_cloud/word_cloud.py
     |-./word_cloud
     |--./images: 用于存储词云图的背景图片
